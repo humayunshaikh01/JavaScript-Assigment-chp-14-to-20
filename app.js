@@ -173,13 +173,20 @@
 //     document.write(tableNumber + " x " +  " " + num + " " + "=" + " " + tableNumber * num + "<br />")
 // }
 
-// Question No 5
+// Question No 5 
 // var fruits = ["apple", "banana", "mango", "orange", 
 // "strawberry"];
 
 // for(var i = 0; i < fruits.length; i++){
 //    document.write(fruits[i] + "<br />")
 // }
+
+// document.write("Elements at index 0 is Apple" + "<br />")
+// document.write("Elements at index 1 is Banana" + "<br />")
+// document.write("Elements at index 2 is Mango" + "<br />")
+// document.write("Elements at index 3 is Orange" + "<br />")
+
+
 
 // Question No 6
 // A)
